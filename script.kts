@@ -22,6 +22,7 @@ class NewClass {
 
     }
 
+
     fun getText(var text: String = ""): String {
         return "text"+text
     }
